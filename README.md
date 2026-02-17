@@ -13,12 +13,12 @@ I am a **Data Analytics & Machine Learning Engineer** passionate about building 
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
 - **Tools:** Git, Docker, Jupyter Notebooks
 
-### 📊 GitHub Stats:
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=saaa637&show_icons=true&theme=radical)
+ 📊 GitHub Stats:
+![Satyam's GitHub stats](https://github.com/saaa637)
 
 ### 📫 How to reach me:
 - 📧 Email: sp04122020@gmail.com
-- 💼 LinkedIn: [Your-LinkedIn-Link-Here]## Hi there 👋
+- 💼 LinkedIn: [https://www.linkedin.com/in/satyam-prajapati-82a51629b/]
 
 <!--
 **saaa637/saaa637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
