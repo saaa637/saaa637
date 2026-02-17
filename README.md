@@ -13,7 +13,7 @@ I am a **Data Analytics & Machine Learning Engineer** passionate about building 
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
 - **Tools:** Git, Docker, Jupyter Notebooks
 
- 📊 GitHub Stats:
+  GitHub Stats:
 ![Satyam's GitHub stats](https://github.com/saaa637)
 
 ### 📫 How to reach me:
