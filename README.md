@@ -5,16 +5,16 @@ I am a **Data Analytics & Machine Learning Engineer** passionate about building 
 ### 🚀 What I do:
 - **Machine Learning:** Building predictive models using CNN, RNN, and Scikit-learn.
 - **Data Engineering:** Designing efficient ETL pipelines for large datasets.
-- **Web Integration:** Deploying ML models using Django and Flask.
+- **Web Integration:** Deploying ML models using Django .
 
 ### 🛠 Tech Stack:
 - **Languages:** Python, SQL
-- **Frameworks:** Django, TensorFlow, Keras, PyTorch
+- **Frameworks:** Django, TensorFlow,  PyTorch
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
-- **Tools:** Git, Docker, Jupyter Notebooks
+- **Tools:** Git, Jupyter Notebooks
 
   GitHub Stats:
-![Satyam's GitHub stats](https://github.com/saaa637)
+![Satyam's GitHub ](https://github.com/saaa637)
 
 ### 📫 How to reach me:
 - 📧 Email: sp04122020@gmail.com
